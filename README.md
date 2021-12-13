@@ -136,7 +136,7 @@
     <th>MagicLake</th>
     <th>UbuntuMinimal</th>
     <th>Cyberpunk 01</th>
-    <th></th>
+    <th>Fletschhorn v2</th>
     <th></th>
   </tr>
   <tr>
@@ -150,6 +150,7 @@
       <img src="https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/main/Screenshots/cyberpunk-01.gif" width="128">
     </td>
     <td>
+      <img src="https://raw.githubusercontent.com/comradecat24/Linux_Dynamic_Wallpapers/main/Screenshots/Fletschhorn v2.gif" width="128">
     </td>
     <td>
     </td>
